@@ -1,0 +1,1 @@
+/home/daniel/.dwm/config.h
